@@ -15,8 +15,6 @@ Student Login :
 ![Alt text](https://github.com/DaljitBhalla/Departmental-WebSite/blob/master/screenshots/Screenshot%20(22).png "Optional title")
 
 
-![Alt text](https://github.com/DaljitBhalla/Departmental-WebSite/blob/master/screenshots/Screenshot%20(23).png "Optional title")
-
 
 ![Alt text](https://github.com/DaljitBhalla/Departmental-WebSite/blob/master/screenshots/Screenshot%20(24).png "Optional title")
 
