@@ -7,7 +7,7 @@ Copy all files /codes into webpages folder of JAVAWeb applications project Netbe
 student login facility also available 
 
 
-![Alt text](https://github.com/DaljitBhalla/Departmental-WebSite/blob/master/screenshots/Screenshot%20(20).png "Optional title")
+![Alt text](https://github.com/DaljitBhalla/Departmental-WebSite/blob/master/screenshots/2.png "Optional title")
 
 
 
